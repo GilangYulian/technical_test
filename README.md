@@ -1,4 +1,6 @@
 ### technical_test
+Role Flutter
+Gilang Yulianta
 
 Aplikasi List User.
 
